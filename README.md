@@ -1,8 +1,8 @@
-### Pagina web uni
+## Pagina web uni
 
 - HTML5, CSS, PHP, Bootstrap;
 
-###Capturas de la pagina
+### Capturas de la pagina
 
 Inicio:
 
